@@ -7,4 +7,6 @@
 - ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress. | Eu acredito que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
 
 
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wesleyotto=anuraghazra&show_icons=true&theme=radical)
