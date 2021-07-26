@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**WesleyOtto/WesleyOtto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3> About me / Sobre mim : </h3>
 
