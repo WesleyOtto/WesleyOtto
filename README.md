@@ -9,6 +9,6 @@
 
 <br>
 
-<a  target="new" href="index.html">Prof.Wesley Otto</a>
+<a  target="new" href="https://wesleyotto.github.io/WesleyOtto/">Prof.Wesley Otto</a>
 
 
