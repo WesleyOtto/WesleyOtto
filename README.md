@@ -10,4 +10,5 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiWesleyOttoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![WesleyOtto GitHub stats](https://github-readme-stats.vercel.app/apiWesleyOttoanuraghazra&show_icons=true&theme=radical)
+
