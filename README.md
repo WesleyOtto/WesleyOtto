@@ -9,5 +9,5 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiWesleyOtto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/apiWesleyOtto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
 
